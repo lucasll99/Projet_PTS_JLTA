@@ -1,5 +1,5 @@
 # Projet_PTS_JLTA
-members: 
+## Members: 
 - Lucas Le Lorier
 - Andréas Lebec 
 - Jonathan Ngalamulume
