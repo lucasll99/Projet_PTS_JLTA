@@ -1,0 +1,5 @@
+Chair
+Sofa
+Oven
+Furniture
+Table
